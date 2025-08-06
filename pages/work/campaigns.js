@@ -59,13 +59,13 @@ const BROCHURES_DATA = [
   ],
   [
     "/",
-    "/assets/brochuresimg/LOGO_DOSTI.jpg",
+    "/assets/brochuresimg/dostiTest.jpg",
     "DOSTI",
     "/assets/brochurespdf/Dosti Maple E-Bro_Ver 2_PDF.pdf",
   ],
   [
     "/",
-    "/assets/brochuresimg/LOGO_SHETH.jpg",
+    "/assets/brochuresimg/sheth edmontTest.jpg",
     "Seth",
     "/assets/brochurespdf/Sheth Edmont Brochure Digital_PDF.pdf",
   ],
