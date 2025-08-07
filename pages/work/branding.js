@@ -14,7 +14,7 @@ const LOGO_DATA = [
   ["/", "/assets/logoimg/Aerohub.png", "", "/assets/logopdf/Aerohub logo.pdf"],
   [
     "/",
-    "/assets/logoimg/LOGO 2_grava 400x180.jpg",
+    "/assets/logoimg/LOGO 2_grava 400x180 (1).jpg",
     "",
     "/assets/logopdf/GRAVA_Marketing_PDF.pdf",
   ],
@@ -26,13 +26,13 @@ const LOGO_DATA = [
   ],
   [
     "/",
-    "/assets/logoimg/LOGO 2_edmont 400x180.jpg",
+    "/assets/logoimg/LOGO 2_edmont 400x180 (1).jpg",
     "",
     "/assets/logopdf/Sheth Edmont_PDF.pdf",
   ],
   [
     "/",
-    "/assets/logoimg/LOGO 2_cybercity 400x180.jpg",
+    "/assets/logoimg/LOGO 2_cybercity 400x180 (1).jpg",
     "",
     "/assets/logopdf/Villa Verde Brand Guidelines_PDF.pdf",
   ],
@@ -42,7 +42,7 @@ const LOGO_DATA = [
 
   [
     "/",
-    "/assets/logoimg/LOGO 2_brookfield 400x180.jpg",
+    "/assets/logoimg/LOGO 2_brookfield 400x180 (1).jpg",
     "",
     "/assets/logopdf/BROOKFIELD_PDF.pdf",
   ],

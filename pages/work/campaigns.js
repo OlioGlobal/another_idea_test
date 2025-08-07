@@ -5,7 +5,7 @@ import Work, { WorkHero, GallaryList, colorIndex } from ".";
 const BROCHURES_DATA = [
   [
     "/",
-    "/assets/brochuresimg/auris.png",
+    "/assets/brochuresimg/omaxecheck.jpg",
     "OMAXE",
     "/assets/brochurespdf/OMAXE_PDF.pdf",
   ],
@@ -47,7 +47,7 @@ const BROCHURES_DATA = [
   ],
   [
     "/",
-    "/assets/brochuresimg/LOGO_RAJAPUSHPA.jpg",
+    "/assets/brochuresimg/rajapushpa.jpg",
     "RAJAPUSHPA",
     "/assets/brochurespdf/Rodas brochure.pdf",
   ],
