@@ -83,7 +83,7 @@ const BROCHURES_DATA = [
 // Anandam
 // Anandam
 const CAMPAIGN_DATA = [
-  ["/", "/assets/shortlistedimg/Hiranandani.png", "DOSTI"],
+  ["/", "/assets/shortlistedimg/DOSTI_CAMPAIGN.jpg", "DOSTI"],
   ["/", "/assets/shortlistedimg/Omkar.png", "AJMERA"],
   ["/", "/assets/shortlistedimg/Vasant Oasis.png", "OMAXE"],
   ["/", "/assets/shortlistedimg/TOI.png", "BROOKFIELD"],

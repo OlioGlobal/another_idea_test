@@ -938,19 +938,19 @@ export default function Home(props) {
               />
               */}
               <WorksSliderItem
-                src="/assets/work_slider_thumbnail/HIRANANDANI.jpg"
+                src="/assets/work_slider_thumbnail/HIRANANADANI.jpg"
                 label="HIRANANDANI COMMUNITIES"
                 addPopup={addPopup}
                 index="0"
               />
               <WorksSliderItem
-                src="/assets/work_slider_thumbnail/RAJAPUSHPA.jpg"
+                src="/assets/work_slider_thumbnail/RAJAPUSHPA_new.jpg"
                 label="RAJAPUSHPA"
                 addPopup={addPopup}
                 index="1"
               />
               <WorksSliderItem
-                src="/assets/work_slider_thumbnail/DOSTI.jpg"
+                src="/assets/work_slider_thumbnail/DOSTI_new.jpg"
                 label="DOSTI REALTY"
                 addPopup={addPopup}
                 index="2"
@@ -962,14 +962,14 @@ export default function Home(props) {
                 index="3"
               />
               <WorksSliderItem
-                src="/assets/work_slider_thumbnail/HIRANANDANI.jpg"
+                src="/assets/work_slider_thumbnail/OMAXE.jpg"
                 label="OMAXE"
                 addPopup={addPopup}
                 index="4"
               />
               <WorksSliderItem
-                src="/assets/work_slider_thumbnail/AURIS.jpg"
-                label="AURIS SERENITY"
+                src="/assets/work_slider_thumbnail/AJMERA.jpg"
+                label="Ajmera"
                 addPopup={addPopup}
                 index="5"
               />
