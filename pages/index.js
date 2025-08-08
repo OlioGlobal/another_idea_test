@@ -939,7 +939,7 @@ export default function Home(props) {
               */}
               <WorksSliderItem
                 src="/assets/work_slider_thumbnail/HIRANANADANI.jpg"
-                label="HIRANANDANI COMMUNITIES"
+                label="HIRANANDANI"
                 addPopup={addPopup}
                 index="0"
               />

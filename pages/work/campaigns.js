@@ -84,14 +84,14 @@ const BROCHURES_DATA = [
 // Anandam
 const CAMPAIGN_DATA = [
   ["/", "/assets/shortlistedimg/DOSTI_CAMPAIGN.jpg", "DOSTI"],
-  ["/", "/assets/shortlistedimg/Omkar.png", "AJMERA"],
-  ["/", "/assets/shortlistedimg/Vasant Oasis.png", "OMAXE"],
-  ["/", "/assets/shortlistedimg/TOI.png", "BROOKFIELD"],
+  ["/", "/assets/shortlistedimg/campaign_omaxe.jpg", "Omaxe"],
+  ["/", "/assets/shortlistedimg/campaign_ajmera.jpg", "Ajmera"],
+  ["/", "/assets/shortlistedimg/campaign_brokfileld.jpg", "BROOKFIELD"],
 
   ["/", "/assets/shortlistedimg/Hiranandani.png", "Hiranandani"],
   ["/", "/assets/shortlistedimg/Omkar.png", "Omkar"],
   ["/", "/assets/shortlistedimg/Vasant Oasis.png", "Sheth"],
-  ["/", "/assets/shortlistedimg/TOI.png", "The Times of India"],
+  // ["/", "/assets/shortlistedimg/TOI.png", "The Times of India"],
   ["/", "/assets/shortlistedimg/Alcove.png", "Alcove"],
   ["/", "/assets/shortlistedimg/Omaxe.png", "Omaxe"],
   ["/", "/assets/shortlistedimg/Aurobinda.png", "Aurobindo"],
@@ -115,11 +115,12 @@ const MEDIA_DATA = [
   ["/", "/assets/newspaperimg/Picture2.jpg", ""],
   ["/", "/assets/newspaperimg/pearl big homes.jpg", ""],
   ["/", "/assets/newspaperimg/Picture22.jpg", ""],
-
+  ["/", "/assets/shortlistedimg/TOI.png", ""],
   ["/", "/assets/newspaperimg/Picture2.jpg", ""],
   ["/", "/assets/newspaperimg/Picture15.jpg", ""],
   ["/", "/assets/newspaperimg/Picture22.jpg", ""],
   ["/", "/assets/newspaperimg/Picture42.jpg", ""],
+
   ["/", "/assets/newspaperimg/Picture51.jpg", ""],
   ["/", "/assets/newspaperimg/Picture53.jpg", ""],
   ["/", "/assets/newspaperimg/Picture56.jpg", ""],
