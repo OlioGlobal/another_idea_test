@@ -3,12 +3,12 @@ import React from "react";
 import Work, { WorkHero, GallaryList, colorIndex } from ".";
 
 const BROCHURES_DATA = [
-  [
-    "/",
-    "/assets/brochuresimg/dostiTest.jpg",
-    "DOSTI",
-    "/assets/brochurespdf/Dosti Maple E-Bro_Ver 2_PDF.pdf",
-  ],
+  // [
+  //   "/",
+  //   "/assets/brochuresimg/dostiTest.jpg",
+  //   "DOSTI",
+  //   "/assets/brochurespdf/Dosti Maple E-Bro_Ver 2_PDF.pdf",
+  // ],
 
   [
     "/",
@@ -20,28 +20,28 @@ const BROCHURES_DATA = [
   [
     "/",
     "/assets/brochuresimg/LOGO_HIRANNANDANI COMUNITY.jpg",
-    "HIRANANDANI COMMUNITY",
+    "HIRANANDANI COMMUNITIES",
     "/assets/brochurespdf/HIRANANDANI COMMUNITY_PDF.pdf",
   ],
 
   [
     "/",
     "/assets/brochuresimg/LOGO_BROOKFIELD.jpg",
-    "BROOKFIELD",
+    "BROOKFIELD PROPERTIES",
     "/assets/brochurespdf/BROOKFIELD_PDF.pdf",
   ],
 
   [
     "/",
     "/assets/brochuresimg/omaxecheck.jpg",
-    "OMAXE",
+    "OMAXE LIMITED",
     "/assets/brochurespdf/OMAXE_PDF.pdf",
   ],
 
   [
     "/",
     "/assets/brochuresimg/rajapushpa.jpg",
-    "RAJAPUSHPA",
+    "RAJAPUSHPA PROPERTIES",
     "/assets/brochurespdf/Rodas brochure.pdf",
   ],
 
@@ -74,7 +74,7 @@ const BROCHURES_DATA = [
   [
     "/",
     "/assets/brochuresimg/sheth edmontTest.jpg",
-    "Seth",
+    "SHETH REALTY",
     "/assets/brochurespdf/Sheth Edmont Brochure Digital_PDF.pdf",
   ],
   [
@@ -97,29 +97,33 @@ const BROCHURES_DATA = [
 // Anandam
 // Anandam
 const CAMPAIGN_DATA = [
-  ["/", "/assets/shortlistedimg/campain_DOSTI.png", "DOSTI"],
-  ["/", "/assets/shortlistedimg/campain_omaxe.png", "Omaxe"],
-  ["/", "/assets/shortlistedimg/campain_ajmera.png", "Ajmera"],
-  ["/", "/assets/shortlistedimg/campain_grokfileld.png", "BROOKFIELD"],
+  ["/", "/assets/shortlistedimg/campain_DOSTI.png", "DOSTI REALTY"],
+  ["/", "/assets/shortlistedimg/campain_omaxe.png", "OMAXE LIMITED"],
+  ["/", "/assets/shortlistedimg/campain_ajmera.png", "AJMERA REALTY"],
+  [
+    "/",
+    "/assets/shortlistedimg/campain_grokfileld.png",
+    "BROOKFIELD PROPERTIES",
+  ],
 
-  ["/", "/assets/shortlistedimg/Hiranandani.png", "Hiranandani"],
-  ["/", "/assets/shortlistedimg/Omkar.png", "Omkar"],
-  ["/", "/assets/shortlistedimg/Vasant Oasis.png", "Sheth"],
+  ["/", "/assets/shortlistedimg/Hiranandani.png", "HIRANANDANI GROUP"],
+  ["/", "/assets/shortlistedimg/Omkar.png", "OMKAR DEVELOPERS"],
+  ["/", "/assets/shortlistedimg/Vasant Oasis.png", "SHETH REALTY"],
   // ["/", "/assets/shortlistedimg/TOI.png", "The Times of India"],
-  ["/", "/assets/shortlistedimg/Alcove.png", "Alcove"],
+  ["/", "/assets/shortlistedimg/Alcove.png", "ALCOVE REALTY"],
   ["/", "/assets/shortlistedimg/Omaxe.png", "Omaxe"],
-  ["/", "/assets/shortlistedimg/Aurobinda.png", "Aurobindo"],
-  ["/", "/assets/shortlistedimg/Gaurs.png", "Gaurs"],
+  ["/", "/assets/shortlistedimg/Aurobinda.png", "AURO REALTY"],
+  ["/", "/assets/shortlistedimg/Gaurs.png", "GAURSONS INDIA LIMITED"],
   ["/", "/assets/shortlistedimg/IRIS.png", "Sheth Iris"],
   ["/", "/assets/shortlistedimg/Sheth Creators.png", "Sheth Creators"],
-  ["/", "/assets/shortlistedimg/Picture7.jpg", "Indiabulls"],
+  ["/", "/assets/shortlistedimg/Picture7.jpg", "INDIABULLS REAL ESTATE"],
   ["/", "/assets/shortlistedimg/Sheth Creators 2.jpg", "Sheth Creators"],
-  ["/", "/assets/shortlistedimg/Picture17.jpg", "Suyojit"],
+  ["/", "/assets/shortlistedimg/Picture17.jpg", "SUYOJIT INFRASTRUCTURE"],
   ["/", "/assets/shortlistedimg/Peninsula.png", "Peninsula Heights"],
-  ["/", "/assets/shortlistedimg/Picture25.jpg", "Mani"],
+  ["/", "/assets/shortlistedimg/Picture25.jpg", "MANI GROUP"],
   ["/", "/assets/shortlistedimg/Picture41.jpg", "Sheth Iris Bay"],
   ["/", "/assets/shortlistedimg/Picture44.jpg", "Indigo Properties"],
-  ["/", "/assets/shortlistedimg/Picture47.jpg", "Marathon"],
+  ["/", "/assets/shortlistedimg/Picture47.jpg", "MARATHON GROUP"],
   ["/", "/assets/shortlistedimg/Picture50.jpg", "Sheth Group"],
   ["/", "/assets/shortlistedimg/Picture63.jpg", "Anandam"],
   ["/", "/assets/shortlistedimg/Picture20_Pixelate.jpg", "Anandam"],

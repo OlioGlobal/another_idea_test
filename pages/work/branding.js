@@ -84,26 +84,26 @@ const STATIONERY_DATA = [
   [
     "/",
     "/assets/stationeryimg/LOGO_EDMONT.jpg",
-    "SETH EDMONT",
+    "SHETH EDMONT",
     "/assets/stationerypdf/Sheth_Edmont_PDF.pdf",
   ],
   [
     "/",
     "/assets/stationeryimg/mani.png",
-    "Mani",
+    "MANI GROUP",
     "/assets/stationerypdf/Mani Group Stationary _ Giveaway.pdf",
   ],
   [
     "/",
     "/assets/stationeryimg/olr.png",
-    "OLR",
+    "OLIR BE REAL GROUP",
     "/assets/stationerypdf/OLR Stationary.pdf",
   ],
   [
     "/",
     "/assets/stationeryimg/realplus.png",
     "realplus",
-    "/assets/stationerypdf/real+ Stationary.pdf",
+    "/assets/stationerypdf/real_Stationary.pdf",
   ],
 ];
 
@@ -111,25 +111,25 @@ const GUIDELINES_DATA = [
   [
     "/",
     "/assets/guidelinesimg/vibe.png",
-    "Vibe",
+    "VIBE REALTY",
     "/assets/guidelinespdf/Basic Ref_Vibe Brand guideline Low.pdf",
   ],
   [
     "/",
     "/assets/guidelinesimg/olr.png",
-    "OLR",
+    "OLIR BE REAL GROUP",
     "/assets/guidelinespdf/Elaborate Version_OLR Brand Guidelines.pdf",
   ],
   [
     "/",
     "/assets/guidelinesimg/LOGO_CYBERCITY.jpg",
-    "CYBERCITY",
+    "CYBERCITY BUILDERS",
     "/assets/guidelinespdf/Villa Verde Brand Guidelines_PDF.pdf",
   ],
   [
     "/",
     "/assets/guidelinesimg/rubberwala.png",
-    "Rubberwala",
+    "RUBBERWALA HOUSING",
     "/assets/guidelinespdf/Mid-Level Ref_Rubberwala Brand Manual 2022.pdf",
   ],
 ];
