@@ -73,16 +73,15 @@ const BROCHURES_DATA = [
 
   [
     "/",
-    "/assets/brochuresimg/montana.png",
-    "Sheth Montana",
-    "/assets/brochurespdf/Sheth - Montana Brochure.pdf",
-  ],
-
-  [
-    "/",
     "/assets/brochuresimg/sheth edmontTest.jpg",
     "Seth",
     "/assets/brochurespdf/Sheth Edmont Brochure Digital_PDF.pdf",
+  ],
+  [
+    "/",
+    "/assets/brochuresimg/montana.png",
+    "Sheth Montana",
+    "/assets/brochurespdf/Sheth - Montana Brochure.pdf",
   ],
 ];
 // Indiabulls
