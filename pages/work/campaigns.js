@@ -5,10 +5,46 @@ import Work, { WorkHero, GallaryList, colorIndex } from ".";
 const BROCHURES_DATA = [
   [
     "/",
+    "/assets/brochuresimg/dostiTest.jpg",
+    "DOSTI",
+    "/assets/brochurespdf/Dosti Maple E-Bro_Ver 2_PDF.pdf",
+  ],
+
+  [
+    "/",
+    "/assets/brochuresimg/gallantwest-01.jpg",
+    "Shalimar Corp",
+    "/assets/brochurespdf/gallant_west.pdf",
+  ],
+
+  [
+    "/",
+    "/assets/brochuresimg/LOGO_HIRANNANDANI COMUNITY.jpg",
+    "HIRANANDANI COMMUNITY",
+    "/assets/brochurespdf/HIRANANDANI COMMUNITY_PDF.pdf",
+  ],
+
+  [
+    "/",
+    "/assets/brochuresimg/LOGO_BROOKFIELD.jpg",
+    "BROOKFIELD",
+    "/assets/brochurespdf/BROOKFIELD_PDF.pdf",
+  ],
+
+  [
+    "/",
     "/assets/brochuresimg/omaxecheck.jpg",
     "OMAXE",
     "/assets/brochurespdf/OMAXE_PDF.pdf",
   ],
+
+  [
+    "/",
+    "/assets/brochuresimg/rajapushpa.jpg",
+    "RAJAPUSHPA",
+    "/assets/brochurespdf/Rodas brochure.pdf",
+  ],
+
   [
     "/",
     "/assets/brochuresimg/auris.png",
@@ -27,42 +63,21 @@ const BROCHURES_DATA = [
   //     "Hiranandani Quantum",
   //     "/assets/brochurespdf/Quantum E-Bro.pdf",
   //   ],
-  [
-    "/",
-    "/assets/brochuresimg/LOGO_HIRANNANDANI COMUNITY.jpg",
-    "HIRANANDANI COMMUNITY",
-    "/assets/brochurespdf/HIRANANDANI COMMUNITY_PDF.pdf",
-  ],
+
   //   [
   //     "/",
   //     "/assets/brochuresimg/rodas.png",
   //     "Rodas Enclave",
   //     "/assets/brochurespdf/Rodas brochure.pdf",
   //   ],
-  [
-    "/",
-    "/assets/brochuresimg/LOGO_BROOKFIELD.jpg",
-    "BROOKFIELD",
-    "/assets/brochurespdf/BROOKFIELD_PDF.pdf",
-  ],
-  [
-    "/",
-    "/assets/brochuresimg/rajapushpa.jpg",
-    "RAJAPUSHPA",
-    "/assets/brochurespdf/Rodas brochure.pdf",
-  ],
+
   [
     "/",
     "/assets/brochuresimg/montana.png",
     "Sheth Montana",
     "/assets/brochurespdf/Sheth - Montana Brochure.pdf",
   ],
-  [
-    "/",
-    "/assets/brochuresimg/dostiTest.jpg",
-    "DOSTI",
-    "/assets/brochurespdf/Dosti Maple E-Bro_Ver 2_PDF.pdf",
-  ],
+
   [
     "/",
     "/assets/brochuresimg/sheth edmontTest.jpg",
