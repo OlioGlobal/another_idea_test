@@ -65,7 +65,7 @@ const STATIONERY_DATA = [
   [
     "/",
     "/assets/stationeryimg/LOGO_Grava.jpg",
-    "GRAVA",
+    "GRAVA BUSINESS PARK",
     "/assets/stationerypdf/GRAVA_Marketing_PDF.pdf",
   ],
 
@@ -78,7 +78,7 @@ const STATIONERY_DATA = [
   [
     "/",
     "/assets/stationeryimg/LOGO_BROOKFIELD.jpg",
-    "BROOKFIELD",
+    "BROOKFIELD PROPERTIES",
     "/assets/stationerypdf/BROOKFIELD_PDF.pdf",
   ],
   [

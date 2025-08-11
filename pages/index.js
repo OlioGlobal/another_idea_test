@@ -939,13 +939,13 @@ export default function Home(props) {
               */}
               <WorksSliderItem
                 src="/assets/work_slider_thumbnail/HIRANANADANI.jpg"
-                label="HIRANANDANI"
+                label="HIRANANDANI GROUP"
                 addPopup={addPopup}
                 index="0"
               />
               <WorksSliderItem
                 src="/assets/work_slider_thumbnail/RAJAPUSHPA_new.jpg"
-                label="RAJAPUSHPA"
+                label="RAJAPUSHPA PROPERTIES"
                 addPopup={addPopup}
                 index="1"
               />
@@ -957,19 +957,19 @@ export default function Home(props) {
               />
               <WorksSliderItem
                 src="/assets/work_slider_thumbnail/BROOKFIELD.jpg"
-                label="BROOKFIELD"
+                label="BROOKFIELD PROPERTIES"
                 addPopup={addPopup}
                 index="3"
               />
               <WorksSliderItem
                 src="/assets/work_slider_thumbnail/OMAXE.jpg"
-                label="OMAXE"
+                label="OMAXE LIMITED"
                 addPopup={addPopup}
                 index="4"
               />
               <WorksSliderItem
                 src="/assets/work_slider_thumbnail/AJMERA.jpg"
-                label="Ajmera"
+                label="AJMERA REALTY"
                 addPopup={addPopup}
                 index="5"
               />
