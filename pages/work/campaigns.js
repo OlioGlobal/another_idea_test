@@ -33,16 +33,16 @@ const BROCHURES_DATA = [
 
   [
     "/",
-    "/assets/brochuresimg/omaxecheck.jpg",
-    "OMAXE LIMITED",
-    "/assets/brochurespdf/OMAXE_PDF.pdf",
+    "/assets/brochuresimg/CYBERCITY_BUILDERS.jpg",
+    "CYBERCITY BUILDERS",
+    "/assets/brochurespdf/Villa_FINAL.pdf",
   ],
 
   [
     "/",
-    "/assets/brochuresimg/rajapushpa.jpg",
+    "/assets/brochuresimg/RAJA_PUSHPA.jpg",
     "RAJAPUSHPA PROPERTIES",
-    "/assets/brochurespdf/Rodas brochure.pdf",
+    "/assets/brochurespdf/Rajapushpa.pdf",
   ],
 
   [
@@ -79,10 +79,16 @@ const BROCHURES_DATA = [
   ],
   [
     "/",
-    "/assets/brochuresimg/montana.png",
-    "Sheth Montana",
-    "/assets/brochurespdf/Sheth - Montana Brochure.pdf",
+    "/assets/brochuresimg/omaxecheck.jpg",
+    "OMAXE LIMITED",
+    "/assets/brochurespdf/OMAXE_PDF.pdf",
   ],
+  // [
+  //   "/",
+  //   "/assets/brochuresimg/montana.png",
+  //   "Sheth Montana",
+  //   "/assets/brochurespdf/Sheth - Montana Brochure.pdf",
+  // ],
 ];
 // Indiabulls
 // Sheth Creators
@@ -98,50 +104,52 @@ const BROCHURES_DATA = [
 // Anandam
 const CAMPAIGN_DATA = [
   ["/", "/assets/shortlistedimg/campain_DOSTI.png", "DOSTI REALTY"],
-  ["/", "/assets/shortlistedimg/campain_omaxe.png", "OMAXE LIMITED"],
+
   ["/", "/assets/shortlistedimg/campain_ajmera.png", "AJMERA REALTY"],
   [
     "/",
     "/assets/shortlistedimg/campain_grokfileld.png",
     "BROOKFIELD PROPERTIES",
   ],
-
+  ["/", "/assets/shortlistedimg/campain_omaxe.png", "OMAXE LIMITED"],
   ["/", "/assets/shortlistedimg/Hiranandani.png", "HIRANANDANI GROUP"],
   ["/", "/assets/shortlistedimg/Omkar.png", "OMKAR DEVELOPERS"],
-  ["/", "/assets/shortlistedimg/Vasant Oasis.png", "SHETH REALTY"],
+  // ["/", "/assets/shortlistedimg/Vasant Oasis.png", "SHETH REALTY"],
   // ["/", "/assets/shortlistedimg/TOI.png", "The Times of India"],
   ["/", "/assets/shortlistedimg/Alcove.png", "ALCOVE REALTY"],
-  ["/", "/assets/shortlistedimg/Omaxe.png", "Omaxe"],
+  // ["/", "/assets/shortlistedimg/Omaxe.png", "Omaxe"],
   ["/", "/assets/shortlistedimg/Aurobinda.png", "AURO REALTY"],
   ["/", "/assets/shortlistedimg/Gaurs.png", "GAURSONS INDIA LIMITED"],
   ["/", "/assets/shortlistedimg/IRIS.png", "Sheth Iris"],
-  ["/", "/assets/shortlistedimg/Sheth Creators.png", "Sheth Creators"],
+  // ["/", "/assets/shortlistedimg/Sheth Creators.png", "Sheth Creators"],
   ["/", "/assets/shortlistedimg/Picture7.jpg", "INDIABULLS REAL ESTATE"],
-  ["/", "/assets/shortlistedimg/Sheth Creators 2.jpg", "Sheth Creators"],
+  // ["/", "/assets/shortlistedimg/Sheth Creators 2.jpg", "Sheth Creators"],
   ["/", "/assets/shortlistedimg/Picture17.jpg", "SUYOJIT INFRASTRUCTURE"],
   ["/", "/assets/shortlistedimg/Peninsula.png", "Peninsula Heights"],
-  ["/", "/assets/shortlistedimg/Picture25.jpg", "MANI GROUP"],
+  // ["/", "/assets/shortlistedimg/Picture25.jpg", "MANI GROUP"],
   ["/", "/assets/shortlistedimg/Picture41.jpg", "Sheth Iris Bay"],
   ["/", "/assets/shortlistedimg/Picture44.jpg", "Indigo Properties"],
   ["/", "/assets/shortlistedimg/Picture47.jpg", "MARATHON GROUP"],
-  ["/", "/assets/shortlistedimg/Picture50.jpg", "Sheth Group"],
-  ["/", "/assets/shortlistedimg/Picture63.jpg", "Anandam"],
-  ["/", "/assets/shortlistedimg/Picture20_Pixelate.jpg", "Anandam"],
+  // ["/", "/assets/shortlistedimg/Picture50.jpg", "Sheth Group"],
+  // ["/", "/assets/shortlistedimg/Picture63.jpg", "Anandam"],
+  // ["/", "/assets/shortlistedimg/Picture20_Pixelate.jpg", "Anandam"],
 ];
 
 const MEDIA_DATA = [
-  ["/", "/assets/newspaperimg/Picture2.jpg", ""],
-  ["/", "/assets/newspaperimg/pearl big homes.jpg", ""],
-  ["/", "/assets/newspaperimg/Picture22.jpg", ""],
+  ["/", "/assets/newspaperimg/AURO_REALTY.png", ""],
+
   ["/", "/assets/shortlistedimg/TOI.png", ""],
   ["/", "/assets/newspaperimg/Picture2.jpg", ""],
-  ["/", "/assets/newspaperimg/Picture15.jpg", ""],
-  ["/", "/assets/newspaperimg/Picture22.jpg", ""],
-  ["/", "/assets/newspaperimg/Picture42.jpg", ""],
+  ["/", "/assets/newspaperimg/pearl big homes.jpg", ""],
 
-  ["/", "/assets/newspaperimg/Picture51.jpg", ""],
-  ["/", "/assets/newspaperimg/Picture53.jpg", ""],
-  ["/", "/assets/newspaperimg/Picture56.jpg", ""],
+  ["/", "/assets/newspaperimg/Picture2.jpg", ""],
+  ["/", "/assets/newspaperimg/Picture15.jpg", ""],
+  // ["/", "/assets/newspaperimg/Picture22.jpg", ""],
+  // ["/", "/assets/newspaperimg/Picture42.jpg", ""],
+
+  // ["/", "/assets/newspaperimg/Picture51.jpg", ""],
+  // ["/", "/assets/newspaperimg/Picture53.jpg", ""],
+  // ["/", "/assets/newspaperimg/Picture56.jpg", ""],
 ];
 
 export default function Campaigns(props) {

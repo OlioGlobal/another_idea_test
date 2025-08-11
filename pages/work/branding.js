@@ -75,12 +75,12 @@ const STATIONERY_DATA = [
     "HIRANANDANI FALCON",
     "/assets/stationerypdf/hiranandani_falcon_PDF.pdf",
   ],
-  [
-    "/",
-    "/assets/stationeryimg/LOGO_BROOKFIELD.jpg",
-    "BROOKFIELD PROPERTIES",
-    "/assets/stationerypdf/BROOKFIELD_PDF.pdf",
-  ],
+  // [
+  //   "/",
+  //   "/assets/stationeryimg/LOGO_BROOKFIELD.jpg",
+  //   "BROOKFIELD PROPERTIES",
+  //   "/assets/stationerypdf/BROOKFIELD_PDF.pdf",
+  // ],
   [
     "/",
     "/assets/stationeryimg/LOGO_EDMONT.jpg",
@@ -89,20 +89,20 @@ const STATIONERY_DATA = [
   ],
   [
     "/",
-    "/assets/stationeryimg/mani.png",
+    "/assets/stationeryimg/MANI_GROUP.jpg",
     "MANI GROUP",
     "/assets/stationerypdf/Mani Group Stationary _ Giveaway.pdf",
   ],
   [
     "/",
-    "/assets/stationeryimg/olr.png",
+    "/assets/stationeryimg/OLIR.jpg",
     "OLIR BE REAL GROUP",
     "/assets/stationerypdf/OLR Stationary.pdf",
   ],
   [
     "/",
-    "/assets/stationeryimg/realplus.png",
-    "realplus",
+    "/assets/stationeryimg/REAL_PLUS.jpg",
+    "realplus Homes",
     "/assets/stationerypdf/real_Stationary.pdf",
   ],
 ];

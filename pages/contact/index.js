@@ -188,7 +188,7 @@ export default function Contact() {
                       Mumbai, Maharashtra 400013
                     </span>
                   </div>
-                  <div className="ContactDetailsItem">
+                  {/* <div className="ContactDetailsItem">
                     <a
                       href="https://goo.gl/maps/VjyPbnGvXj2SAmec7"
                       target={"_blank"}
@@ -198,8 +198,8 @@ export default function Contact() {
                         Brady Gladys Plaza{" "}
                         <img src="/assets/marker.png" alt="" />
                       </span>
-                    </a>
-                  </div>
+                    </a>  
+                  </div> */}
                 </div>
                 <div className="ContactForm-form">
                   {f_process_state ? (
