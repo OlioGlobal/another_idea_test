@@ -12,16 +12,9 @@ const BROCHURES_DATA = [
 
   [
     "/",
-    "/assets/brochuresimg/gallantwest-01.jpg",
-    "Shalimar Corp",
-    "/assets/brochurespdf/gallant_west.pdf",
-  ],
-
-  [
-    "/",
-    "/assets/brochuresimg/LOGO_HIRANNANDANI COMUNITY.jpg",
-    "HIRANANDANI COMMUNITIES",
-    "/assets/brochurespdf/HIRANANDANI COMMUNITY_PDF.pdf",
+    "/assets/brochuresimg/CYBERCITY_BUILDERS.jpg",
+    "CYBERCITY BUILDERS",
+    "/assets/brochurespdf/Villa_FINAL.pdf",
   ],
 
   [
@@ -33,16 +26,9 @@ const BROCHURES_DATA = [
 
   [
     "/",
-    "/assets/brochuresimg/CYBERCITY_BUILDERS.jpg",
-    "CYBERCITY BUILDERS",
-    "/assets/brochurespdf/Villa_FINAL.pdf",
-  ],
-
-  [
-    "/",
-    "/assets/brochuresimg/RAJA_PUSHPA.jpg",
-    "RAJAPUSHPA PROPERTIES",
-    "/assets/brochurespdf/Rajapushpa.pdf",
+    "/assets/brochuresimg/gallantwest-01.jpg",
+    "Shalimar Corp",
+    "/assets/brochurespdf/gallant_west.pdf",
   ],
 
   [
@@ -51,6 +37,19 @@ const BROCHURES_DATA = [
     "Auris Serenity",
     "/assets/brochurespdf/Auris Serenity brochure.pdf",
   ],
+  [
+    "/",
+    "/assets/brochuresimg/RAJA_PUSHPA.jpg",
+    "RAJAPUSHPA PROPERTIES",
+    "/assets/brochurespdf/Rajapushpa.pdf",
+  ],
+  [
+    "/",
+    "/assets/brochuresimg/LOGO_HIRANNANDANI COMUNITY.jpg",
+    "HIRANANDANI COMMUNITIES",
+    "/assets/brochurespdf/HIRANANDANI COMMUNITY_PDF.pdf",
+  ],
+
   //   [
   //     "/",
   //     "/assets/brochuresimg/ibs.png",
